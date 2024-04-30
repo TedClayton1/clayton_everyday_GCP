@@ -76,10 +76,6 @@ output "website_url" {
  
 
 
- 
-
-
-
 
 resource "google_compute_network" "auto-vpc-tf" {
   name = "auto-vpc-tf"
